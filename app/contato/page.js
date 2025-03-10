@@ -9,16 +9,7 @@ export default function Contato(){
     
     const [name, setName] = useState("")
     const [message, setMessage] = useState("")
-    const notifySucess = () => toast('Mensagem enviada com sucesso!',{
-        position: "top-center",
-        autoClose: 5000,
-        theme: "light"
-    });
-    const notifyError = ()=> toast('Por favor, preencha todos os campos',{
-        position: "top-center",
-        autoClose: 5000,
-        theme: "light"
-    });
+    // Testando um teste com uma testada
 
     function sendMessage(e){
 
