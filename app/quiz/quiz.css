@@ -1,0 +1,11 @@
+.selecionado{
+    color: blue;
+    border: 1px solid grey;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.lista p:hover{
+    color: grey;
+    cursor: pointer;
+}
