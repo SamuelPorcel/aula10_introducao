@@ -1,0 +1,11 @@
+.botaoAzul{
+    background-color: rgb(44, 44, 250);   
+}
+
+.botaoVermelho{
+    background-color: red;
+}
+
+.divisao{
+    display: flex;
+}
